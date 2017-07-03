@@ -106,7 +106,6 @@ extension NSLayoutConstraint {
             views.forEach { (view) in
                 view.translatesAutoresizingMaskIntoConstraints = false
             }
-            constraints = []
             for i in 1 ... views.count - 1 {
                 constraints.append(NSLayoutConstraint.init(item: views[i - 1], attribute: attribute, relatedBy: .equal, toItem: views[i], attribute: attribute, multiplier: 1, constant: 0))
             }
