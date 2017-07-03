@@ -19,6 +19,11 @@ inside a UICollectionViewCell I have these lines of code after the init()
         
         
         
-which result in this layout:
+which result in this beautiful layout:
+
+
+![image one](http://imgur.com/a/3irrt)
+
+![image two](http://imgur.com/a/lSRmF)
 
 
