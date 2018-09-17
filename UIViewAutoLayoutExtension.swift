@@ -2,8 +2,8 @@
 //  UIViewAutoLayoutExtension.swift
 //  AutolayoutDemo
 //
-//  Created by Nimrod Ben Simon on 8/07/2016.
-//  Copyright (c) 2016 Nissim. All rights reserved.
+//  Created by Nimrod on 8/07/2015.
+//  Copyright (c) 2015 Nissim. All rights reserved.
 //
 import UIKit
 
